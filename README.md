@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on: Making Zero Trust Network Access (ZTNA) systems.<br>👯 I’m looking to collaborate on: Building secure network access models, enhancing cybersecurity protocols, or anything related to ZTNA implementation.<br>🌱 I’m currently learning: SOC analysis, malware analysis, and diving deeper into security operations.
 
+🎓 I'm a Computer Science student deeply passionate about cybersecurity and digital defense.<br>
+🔍 My interests lie in SOC analysis, security engineering, and digital forensics.<br>
+🛡️ I enjoy exploring threat detection, incident response, and secure system design.<br>
+💡 Continuously learning and building hands-on experience in real-world security scenarios.<br>
+🧪 Currently working on a Malware Detection and Analysis tool that combines static, dynamic, and ML-based techniques.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/stux_n3t) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mihir-shah07) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mihirps) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:7mihirpshah@gmail.com) 
